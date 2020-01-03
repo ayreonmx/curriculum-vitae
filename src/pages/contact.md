@@ -1,11 +1,10 @@
 ---
-title: Get in Touch
+title: Contactame
 img_path: images/contact.jpg
 menus:
   main:
-    title: Contact
+    title: Contacto
     weight: 6
 template: contact
 ---
-
-To get in touch fill the form below.
+Envíame un mensaje llenando la información abajo
